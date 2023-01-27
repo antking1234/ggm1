@@ -1,0 +1,13 @@
+샤아 아즈나블
+int pool string float
+
+
+string comet = "붉은 혜성";
+Debug.Log("파일럿은 " + comet);
+MSpower = 100;
+charsNT = 50;
+SAZABI = charsNT + MSpower;
+
+Debug.Log("현재 사자비의 전투력은" + SAZABI);
+
+붉은색은 3배 빨라!
